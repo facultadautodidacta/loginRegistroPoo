@@ -41,9 +41,6 @@
               <a class="d-block text-center mt-2 small" href="index.php">Si tienes una cuenta, entra!</a>
 
               <hr class="my-4">
-
-              
-
             </form>
           </div>
         </div>
